@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 <span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambarnaby&layout=compact&theme=onedark">
 </span>
+<span>
 <img src="https://github-readme-stats.vercel.app/api?username=iambarnaby&show_icons=true&theme=onedark">
+ </span>
