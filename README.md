@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 + 🌱 I’m currently learning ruby and vuejs
 + 👯 I’m looking to collaborate on anything and everything!
 @@ 💬 Ask me about react and tailwindcss! @@
+
+
+
 ! ⚡ Fun fact: the whole internet weighs about the same as a large Strawberry in electron mass 🍓
 ```
 
