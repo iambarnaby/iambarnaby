@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on react projects
-- 🌱 I’m currently learning typescript and vuejs
+- 🌱 I’m currently learning ruby and vuejs
 - 👯 I’m looking to collaborate on anything and everything!
 - 💬 Ask me about react and tailwindcss!
 <!-- - 🤔 I’m looking for help with ... -->
