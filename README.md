@@ -6,8 +6,9 @@
 Here are some ideas to get you started:
 -->
 ``` diff
-+ 🔭 I’m currently working on react and nextjs projects!
++ 🔭 I’m currently working electron.js and nextjs projects!
 + 🌱 I’m currently learning ruby and vuejs
++ 🛍️ I love working with shopify api & cli
 + 👯 I’m looking to collaborate on anything and everything!
 @@ 💬 Ask me about react and tailwindcss! @@
 
